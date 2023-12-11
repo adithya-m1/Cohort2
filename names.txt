@@ -1,5 +1,4 @@
-Adithya
-Rakesh
-Sameer
-Dinesh
-:wq
+adithya
+rakesh
+sameer
+dinesh
